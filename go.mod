@@ -1,4 +1,4 @@
-module github.com/KonstantinosChatziantoniou/gorouter
+module github.com/konstantinoschatziantoniou/gorouter
 
 go 1.21.3
 
