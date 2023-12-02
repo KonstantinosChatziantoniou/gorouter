@@ -1,4 +1,4 @@
-module kotsarelos/gorouter
+module kotsarelos.com/gorouter
 
 go 1.21.3
 
